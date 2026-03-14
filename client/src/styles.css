@@ -1,0 +1,30 @@
+.app{
+  width:600px;
+  margin:auto;
+  font-family:sans-serif;
+}
+
+.chat-box{
+  border:1px solid #ddd;
+  padding:20px;
+  height:300px;
+  overflow-y:auto;
+}
+
+.user-msg{
+  text-align:right;
+  margin:10px;
+  color:#2b7cff;
+}
+
+.bot-msg{
+  text-align:left;
+  margin:10px;
+  color:#333;
+}
+
+button{
+  padding:12px 20px;
+  margin-top:20px;
+  font-size:16px;
+}
